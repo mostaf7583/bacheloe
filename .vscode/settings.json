@@ -1,5 +1,6 @@
 {
     "python.analysis.extraPaths": [
         "./one-pixel-attack-keras"
-    ]
+    ],
+    "python.analysis.autoImportCompletions": true
 }
